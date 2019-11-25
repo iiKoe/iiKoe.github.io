@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | </title>
+    <link>/authors/</link>
+      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 20 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Authors</title>
+      <link>/authors/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>/authors/admin/</link>
+      <pubDate>Fri, 20 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/admin/</guid>
+      <description>&lt;p&gt;I received my Bachelor degree in Electrical Engineering from the Amsterdam University of Applied Science (HBO) in 2015. After a one year bridging program I started my Master in Embedded Systems at the Delft University of Technology (TU Delft) which I completed in 2019.
+Currently I am a PhD Student at the Embedded and Networked Systems which is part of the faculty of Electrical Engineering, Mathematics and Computer Science (EEMCS) at the TU Delft.&lt;/p&gt;
+
+&lt;p&gt;My supervisors are &lt;a href=&#34;http://www.pawelczak.net&#34; target=&#34;_blank&#34;&gt;Dr. P. Pawełczak&lt;/a&gt; and &lt;a href=&#34;http://www.st.ewi.tudelft.nl/koen/index.html&#34; target=&#34;_blank&#34;&gt;Prof. dr. K.G. Langendoen&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;My research focus is on &lt;strong&gt;intermittent computing&lt;/strong&gt; support, this mostly involves making sure that low power &lt;strong&gt;batteryless&lt;/strong&gt; embedded systems&amp;ndash;that work on harvested energy&amp;ndash;continue where they left off after a total power failure.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Abu Bakar</title>
+      <link>/authors/abu-bakar/</link>
+      <pubDate>Fri, 20 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/abu-bakar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jacob Sorber</title>
+      <link>/authors/jacob-sorber/</link>
+      <pubDate>Fri, 20 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/jacob-sorber/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Josiah Hester</title>
+      <link>/authors/josiah-hester/</link>
+      <pubDate>Fri, 20 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/josiah-hester/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kasım Sinan Yıldırım</title>
+      <link>/authors/kas%C4%B1m-sinan-y%C4%B1ld%C4%B1r%C4%B1m/</link>
+      <pubDate>Fri, 20 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/kas%C4%B1m-sinan-y%C4%B1ld%C4%B1r%C4%B1m/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Przemysław Pawełczak</title>
+      <link>/authors/przemys%C5%82aw-pawe%C5%82czak/</link>
+      <pubDate>Fri, 20 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/przemys%C5%82aw-pawe%C5%82czak/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
