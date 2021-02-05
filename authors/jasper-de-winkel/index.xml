@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jasper de Winkel | Vito Kortbeek</title>
+    <link>/authors/jasper-de-winkel/</link>
+      <atom:link href="/authors/jasper-de-winkel/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jasper de Winkel</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 20 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Jasper de Winkel</title>
+      <link>/authors/jasper-de-winkel/</link>
+    </image>
+    
+    <item>
+      <title>[IMWUT Sept./UbiComp &#39;20] Battery-Free Game Boy</title>
+      <link>/publication/gameboy/</link>
+      <pubDate>Sun, 20 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/gameboy/</guid>
+      <description>&lt;p&gt;GitHub Repository: &lt;a href=&#34;https://github.com/TUDSSL/ENGAGE&#34;&gt;https://github.com/TUDSSL/ENGAGE&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

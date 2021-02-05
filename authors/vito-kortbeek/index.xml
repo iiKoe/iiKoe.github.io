@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Kasım Sinan Yıldırım | Vito Kortbeek</title>
-    <link>/authors/kas%C4%B1m-sinan-y%C4%B1ld%C4%B1r%C4%B1m/</link>
-      <atom:link href="/authors/kas%C4%B1m-sinan-y%C4%B1ld%C4%B1r%C4%B1m/index.xml" rel="self" type="application/rss+xml" />
-    <description>Kasım Sinan Yıldırım</description>
+    <title>Vito Kortbeek</title>
+    <link>/authors/vito-kortbeek/</link>
+      <atom:link href="/authors/vito-kortbeek/index.xml" rel="self" type="application/rss+xml" />
+    <description>Vito Kortbeek</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 20 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
-      <title>Kasım Sinan Yıldırım</title>
-      <link>/authors/kas%C4%B1m-sinan-y%C4%B1ld%C4%B1r%C4%B1m/</link>
+      <title>Vito Kortbeek</title>
+      <link>/authors/vito-kortbeek/</link>
     </image>
     
     <item>
@@ -18,6 +18,15 @@
       <pubDate>Sun, 20 Dec 2020 00:00:00 +0000</pubDate>
       <guid>/publication/bfree/</guid>
       <description>&lt;p&gt;GitHub Repository: &lt;a href=&#34;https://github.com/TUDSSL/BFree&#34;&gt;https://github.com/TUDSSL/BFree&lt;/a&gt; (under construction)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>[IMWUT Sept./UbiComp &#39;20] Battery-Free Game Boy</title>
+      <link>/publication/gameboy/</link>
+      <pubDate>Sun, 20 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/gameboy/</guid>
+      <description>&lt;p&gt;GitHub Repository: &lt;a href=&#34;https://github.com/TUDSSL/ENGAGE&#34;&gt;https://github.com/TUDSSL/ENGAGE&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

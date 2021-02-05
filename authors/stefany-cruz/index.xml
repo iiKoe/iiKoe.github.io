@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Abu Bakar | Vito Kortbeek</title>
-    <link>/authors/abu-bakar/</link>
-      <atom:link href="/authors/abu-bakar/index.xml" rel="self" type="application/rss+xml" />
-    <description>Abu Bakar</description>
+    <title>Stefany Cruz | Vito Kortbeek</title>
+    <link>/authors/stefany-cruz/</link>
+      <atom:link href="/authors/stefany-cruz/index.xml" rel="self" type="application/rss+xml" />
+    <description>Stefany Cruz</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 20 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
-      <title>Abu Bakar</title>
-      <link>/authors/abu-bakar/</link>
+      <title>Stefany Cruz</title>
+      <link>/authors/stefany-cruz/</link>
     </image>
     
     <item>
@@ -18,15 +18,6 @@
       <pubDate>Sun, 20 Dec 2020 00:00:00 +0000</pubDate>
       <guid>/publication/bfree/</guid>
       <description>&lt;p&gt;GitHub Repository: &lt;a href=&#34;https://github.com/TUDSSL/BFree&#34;&gt;https://github.com/TUDSSL/BFree&lt;/a&gt; (under construction)&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>[ASPLOS &#39;20] Time-sensitive Intermittent Computing Meets Legacy Software</title>
-      <link>/publication/tics/</link>
-      <pubDate>Fri, 20 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/tics/</guid>
-      <description>&lt;p&gt;GitHub Repository: &lt;a href=&#34;https://github.com/TUDSSL/TICS&#34;&gt;https://github.com/TUDSSL/TICS&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

@@ -5,7 +5,7 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Vito Kortbeek</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 20 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 20 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Vito Kortbeek</title>
@@ -13,11 +13,29 @@
     </image>
     
     <item>
-      <title>Time-sensitive Intermittent Computing Meets Legacy Software</title>
-      <link>/publication/conference-paper/</link>
+      <title>[IMWUT Dec. &#39;20] BFree: Enabling Battery-free Sensor Prototyping with Python</title>
+      <link>/publication/bfree/</link>
+      <pubDate>Sun, 20 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/bfree/</guid>
+      <description>&lt;p&gt;GitHub Repository: &lt;a href=&#34;https://github.com/TUDSSL/BFree&#34;&gt;https://github.com/TUDSSL/BFree&lt;/a&gt; (under construction)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>[IMWUT Sept./UbiComp &#39;20] Battery-Free Game Boy</title>
+      <link>/publication/gameboy/</link>
+      <pubDate>Sun, 20 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/gameboy/</guid>
+      <description>&lt;p&gt;GitHub Repository: &lt;a href=&#34;https://github.com/TUDSSL/ENGAGE&#34;&gt;https://github.com/TUDSSL/ENGAGE&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>[ASPLOS &#39;20] Time-sensitive Intermittent Computing Meets Legacy Software</title>
+      <link>/publication/tics/</link>
       <pubDate>Fri, 20 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/conference-paper/</guid>
-      <description>&lt;p&gt;GitHub Repository: &lt;a href=&#34;https://github.com/TUDSSL/TICS&#34; target=&#34;_blank&#34;&gt;https://github.com/TUDSSL/TICS&lt;/a&gt;&lt;/p&gt;
+      <guid>/publication/tics/</guid>
+      <description>&lt;p&gt;GitHub Repository: &lt;a href=&#34;https://github.com/TUDSSL/TICS&#34;&gt;https://github.com/TUDSSL/TICS&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
