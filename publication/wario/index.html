@@ -28,10 +28,10 @@
   
     
   
-  <meta name="description" content="Building and programming tiny battery-free energy harvesting embedded computer systems is hard for the average maker because of the lack of tools, hard to comprehend programming models, and frequent power failures. With the high ecologic cost of equipping the next trillion embedded devices with batteries, it is critical to equip the makers, hobbyists, and novice embedded systems programmers with easy-to-use tools supporting battery-free energy harvesting application development. This way, makers can create untethered embedded systems that are not plugged into the wall, the desktop, or even a battery, providing numerous new applications and allowing for a more sustainable vision of ubiquitous computing. In this paper, we present BFree, a system that makes it possible for makers, hobbyists, and novice embedded programmers to develop battery-free applications using Python programming language and widely available hobbyist maker platforms. BFree provides energy harvesting hardware and a power failure resilient version of Python, with durable libraries that enable common coding practice and off the shelf sensors. We develop demonstration applications, benchmark BFree against battery-powered approaches, and evaluate our system in a user study. This work enables makers to engage with a future of ubiquitous computing that is useful, long-term, and environmentally responsible.">
+  <meta name="description" content="Intermittently-operating embedded computing platforms powered by energy harvesting require software frameworks to protect from errors caused by Write After Read (WAR) dependencies. A powerful method of code protection for systems with non-volatile main memory utilizes compiler analysis to insert a checkpoint inside each WAR violation in the code. However, such software frameworks are oblivious to the code structure—and therefore, inefficient—when many consecutive WAR violations exist. Our insight is that by transforming the input code, i.e., moving individual write operations from unique WARs close to each other, we can significantly reduce the number of checkpoints. This idea is the foundation for WARio: a set of compiler transformations for efficient code generation for intermittent computing. WARio, on average, reduces checkpoint overhead by 58% and up to 88% compared to the state of the art across various benchmarks.">
 
   
-  <link rel="alternate" hreflang="en-us" href="/publication/bfree/">
+  <link rel="alternate" hreflang="en-us" href="/publication/wario/">
 
   
 
@@ -98,7 +98,7 @@
   <link rel="icon" type="image/png" href="/img/icon-32.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="/publication/bfree/">
+  <link rel="canonical" href="/publication/wario/">
 
   
   
@@ -111,15 +111,15 @@
   <meta property="twitter:card" content="summary">
   
   <meta property="og:site_name" content="Vito Kortbeek">
-  <meta property="og:url" content="/publication/bfree/">
-  <meta property="og:title" content="[IMWUT Dec. &#39;20] BFree: Enabling Battery-free Sensor Prototyping with Python | Vito Kortbeek">
-  <meta property="og:description" content="Building and programming tiny battery-free energy harvesting embedded computer systems is hard for the average maker because of the lack of tools, hard to comprehend programming models, and frequent power failures. With the high ecologic cost of equipping the next trillion embedded devices with batteries, it is critical to equip the makers, hobbyists, and novice embedded systems programmers with easy-to-use tools supporting battery-free energy harvesting application development. This way, makers can create untethered embedded systems that are not plugged into the wall, the desktop, or even a battery, providing numerous new applications and allowing for a more sustainable vision of ubiquitous computing. In this paper, we present BFree, a system that makes it possible for makers, hobbyists, and novice embedded programmers to develop battery-free applications using Python programming language and widely available hobbyist maker platforms. BFree provides energy harvesting hardware and a power failure resilient version of Python, with durable libraries that enable common coding practice and off the shelf sensors. We develop demonstration applications, benchmark BFree against battery-powered approaches, and evaluate our system in a user study. This work enables makers to engage with a future of ubiquitous computing that is useful, long-term, and environmentally responsible."><meta property="og:image" content="/img/icon-192.png">
+  <meta property="og:url" content="/publication/wario/">
+  <meta property="og:title" content="[PLDI &#39;22] WARio: Efficient Code Generation for Intermittent Computing via Compiler Support | Vito Kortbeek">
+  <meta property="og:description" content="Intermittently-operating embedded computing platforms powered by energy harvesting require software frameworks to protect from errors caused by Write After Read (WAR) dependencies. A powerful method of code protection for systems with non-volatile main memory utilizes compiler analysis to insert a checkpoint inside each WAR violation in the code. However, such software frameworks are oblivious to the code structure—and therefore, inefficient—when many consecutive WAR violations exist. Our insight is that by transforming the input code, i.e., moving individual write operations from unique WARs close to each other, we can significantly reduce the number of checkpoints. This idea is the foundation for WARio: a set of compiler transformations for efficient code generation for intermittent computing. WARio, on average, reduces checkpoint overhead by 58% and up to 88% compared to the state of the art across various benchmarks."><meta property="og:image" content="/img/icon-192.png">
   <meta property="twitter:image" content="/img/icon-192.png"><meta property="og:locale" content="en-us">
   
     
       <meta property="article:published_time" content="2019-01-01T00:00:00&#43;00:00">
     
-    <meta property="article:modified_time" content="2020-12-20T00:00:00&#43;00:00">
+    <meta property="article:modified_time" content="2022-06-20T00:00:00&#43;00:00">
   
 
   
@@ -143,12 +143,12 @@
   "@type": "Article",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "/publication/bfree/"
+    "@id": "/publication/wario/"
   },
-  "headline": "[IMWUT Dec. '20] BFree: Enabling Battery-free Sensor Prototyping with Python",
+  "headline": "[PLDI '22] WARio: Efficient Code Generation for Intermittent Computing via Compiler Support",
   
   "datePublished": "2019-01-01T00:00:00Z",
-  "dateModified": "2020-12-20T00:00:00Z",
+  "dateModified": "2022-06-20T00:00:00Z",
   
   "author": {
     "@type": "Person",
@@ -163,7 +163,7 @@
       "url": "/img/icon-512.png"
     }
   },
-  "description": "Building and programming tiny battery-free energy harvesting embedded computer systems is hard for the average maker because of the lack of tools, hard to comprehend programming models, and frequent power failures. With the high ecologic cost of equipping the next trillion embedded devices with batteries, it is critical to equip the makers, hobbyists, and novice embedded systems programmers with easy-to-use tools supporting battery-free energy harvesting application development. This way, makers can create untethered embedded systems that are not plugged into the wall, the desktop, or even a battery, providing numerous new applications and allowing for a more sustainable vision of ubiquitous computing. In this paper, we present BFree, a system that makes it possible for makers, hobbyists, and novice embedded programmers to develop battery-free applications using Python programming language and widely available hobbyist maker platforms. BFree provides energy harvesting hardware and a power failure resilient version of Python, with durable libraries that enable common coding practice and off the shelf sensors. We develop demonstration applications, benchmark BFree against battery-powered approaches, and evaluate our system in a user study. This work enables makers to engage with a future of ubiquitous computing that is useful, long-term, and environmentally responsible."
+  "description": "Intermittently-operating embedded computing platforms powered by energy harvesting require software frameworks to protect from errors caused by Write After Read (WAR) dependencies. A powerful method of code protection for systems with non-volatile main memory utilizes compiler analysis to insert a checkpoint inside each WAR violation in the code. However, such software frameworks are oblivious to the code structure—and therefore, inefficient—when many consecutive WAR violations exist. Our insight is that by transforming the input code, i.e., moving individual write operations from unique WARs close to each other, we can significantly reduce the number of checkpoints. This idea is the foundation for WARio: a set of compiler transformations for efficient code generation for intermittent computing. WARio, on average, reduces checkpoint overhead by 58% and up to 88% compared to the state of the art across various benchmarks."
 }
 </script>
 
@@ -181,7 +181,7 @@
 
 
 
-  <title>[IMWUT Dec. &#39;20] BFree: Enabling Battery-free Sensor Prototyping with Python | Vito Kortbeek</title>
+  <title>[PLDI &#39;22] WARio: Efficient Code Generation for Intermittent Computing via Compiler Support | Vito Kortbeek</title>
 
 </head>
 
@@ -379,7 +379,7 @@
   
   
 <div class="article-container pt-3">
-  <h1>[IMWUT Dec. &#39;20] BFree: Enabling Battery-free Sensor Prototyping with Python</h1>
+  <h1>[PLDI &#39;22] WARio: Efficient Code Generation for Intermittent Computing via Compiler Support</h1>
 
   
 
@@ -399,7 +399,7 @@
 
 
   
-  <span><a href="/authors/vito-kortbeek/">Vito Kortbeek</a></span>, <span><a href="/authors/abu-bakar/">Abu Bakar</a></span>, <span><a href="/authors/stefany-cruz/">Stefany Cruz</a></span>, <span>Kasım Sinan Yıldırım</span>, <span>Przemysław Pawełczak</span>, <span><a href="/authors/josiah-hester/">Josiah Hester</a></span>
+  <span><a href="/authors/vito-kortbeek/">Vito Kortbeek</a></span>, <span><a href="/authors/souradip-ghosh/">Souradip Ghosh</a></span>, <span><a href="/authors/josiah-hester/">Josiah Hester</a></span>, <span><a href="/authors/simone-campanoni/">Simone Campanoni</a></span>, <span>Przemysław Pawełczak</span>
 
   </div>
   
@@ -411,7 +411,7 @@
     
       
     
-    December 2020
+    June 2022
   </span>
   
 
@@ -462,7 +462,7 @@
 
 
 <button type="button" class="btn btn-outline-primary my-1 mr-1 js-cite-modal"
-        data-filename="/publication/bfree/cite.bib">
+        data-filename="/publication/wario/cite.bib">
   Cite
 </button>
 
@@ -471,7 +471,7 @@
   
     
   
-<a class="btn btn-outline-primary my-1 mr-1" href="https://github.com/TUDSSL/BFree" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary my-1 mr-1" href="https://github.com/TUDSSL/WARio" target="_blank" rel="noopener">
   Code
 </a>
 
@@ -487,6 +487,22 @@
 
 
 
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary my-1 mr-1" href="https://zenodo.org/record/6324315" target="_blank" rel="noopener">
+    
+    Artifact
+  </a>
+
 
 </div>
 
@@ -500,7 +516,7 @@
 
     
     <h3>Abstract</h3>
-    <p class="pub-abstract">Building and programming tiny battery-free energy harvesting embedded computer systems is hard for the average maker because of the lack of tools, hard to comprehend programming models, and frequent power failures. With the high ecologic cost of equipping the next trillion embedded devices with batteries, it is critical to equip the makers, hobbyists, and novice embedded systems programmers with easy-to-use tools supporting battery-free energy harvesting application development. This way, makers can create untethered embedded systems that are not plugged into the wall, the desktop, or even a battery, providing numerous new applications and allowing for a more sustainable vision of ubiquitous computing. In this paper, we present BFree, a system that makes it possible for makers, hobbyists, and novice embedded programmers to develop battery-free applications using Python programming language and widely available hobbyist maker platforms. BFree provides energy harvesting hardware and a power failure resilient version of Python, with durable libraries that enable common coding practice and off the shelf sensors. We develop demonstration applications, benchmark BFree against battery-powered approaches, and evaluate our system in a user study. This work enables makers to engage with a future of ubiquitous computing that is useful, long-term, and environmentally responsible.</p>
+    <p class="pub-abstract">Intermittently-operating embedded computing platforms powered by energy harvesting require software frameworks to protect from errors caused by Write After Read (WAR) dependencies. A powerful method of code protection for systems with non-volatile main memory utilizes compiler analysis to insert a checkpoint inside each WAR violation in the code. However, such software frameworks are oblivious to the code structure—and therefore, inefficient—when many consecutive WAR violations exist. Our insight is that by transforming the input code, i.e., moving individual write operations from unique WARs close to each other, we can significantly reduce the number of checkpoints. This idea is the foundation for WARio: a set of compiler transformations for efficient code generation for intermittent computing. WARio, on average, reduces checkpoint overhead by 58% and up to 88% compared to the state of the art across various benchmarks.</p>
     
 
     
@@ -530,7 +546,7 @@
       <div class="col-md-10">
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">Publication</div>
-          <div class="col-12 col-md-9">In <em>Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT December 2020) to be presented at UbiComp 2021</em></div>
+          <div class="col-12 col-md-9">In <em>43rd ACM SIGPLAN International Conference on Programming Language Design and Implementation (PLDI &lsquo;22)</em></div>
         </div>
       </div>
       <div class="col-md-1"></div>
@@ -540,7 +556,7 @@
 
     <div class="space-below"></div>
 
-    <div class="article-style"><p>GitHub Repository: <a href="https://github.com/TUDSSL/BFree">https://github.com/TUDSSL/BFree</a> (under construction)</p>
+    <div class="article-style"><p>GitHub Repository: <a href="https://github.com/TUDSSL/WARio">https://github.com/TUDSSL/WARio</a></p>
 </div>
 
     
@@ -552,6 +568,8 @@
 <div class="article-tags">
   
   <a class="badge badge-light" href="/tags/intermittent-computing/">Intermittent Computing</a>
+  
+  <a class="badge badge-light" href="/tags/compiler-optimizations/">Compiler optimizations</a>
   
 </div>
 
@@ -568,7 +586,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=/publication/bfree/&amp;text=[IMWUT%20Dec.%20&amp;#39;20]%20BFree:%20Enabling%20Battery-free%20Sensor%20Prototyping%20with%20Python" target="_blank" rel="noopener" class="share-btn-twitter">
+        <a href="https://twitter.com/intent/tweet?url=/publication/wario/&amp;text=[PLDI%20&amp;#39;22]%20WARio:%20Efficient%20Code%20Generation%20for%20Intermittent%20Computing%20via%20Compiler%20Support" target="_blank" rel="noopener" class="share-btn-twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -581,7 +599,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=/publication/bfree/&amp;t=[IMWUT%20Dec.%20&amp;#39;20]%20BFree:%20Enabling%20Battery-free%20Sensor%20Prototyping%20with%20Python" target="_blank" rel="noopener" class="share-btn-facebook">
+        <a href="https://www.facebook.com/sharer.php?u=/publication/wario/&amp;t=[PLDI%20&amp;#39;22]%20WARio:%20Efficient%20Code%20Generation%20for%20Intermittent%20Computing%20via%20Compiler%20Support" target="_blank" rel="noopener" class="share-btn-facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -594,7 +612,7 @@
       
       
       <li>
-        <a href="mailto:?subject=[IMWUT%20Dec.%20&amp;#39;20]%20BFree:%20Enabling%20Battery-free%20Sensor%20Prototyping%20with%20Python&amp;body=/publication/bfree/" target="_blank" rel="noopener" class="share-btn-email">
+        <a href="mailto:?subject=[PLDI%20&amp;#39;22]%20WARio:%20Efficient%20Code%20Generation%20for%20Intermittent%20Computing%20via%20Compiler%20Support&amp;body=/publication/wario/" target="_blank" rel="noopener" class="share-btn-email">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -607,7 +625,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=/publication/bfree/&amp;title=[IMWUT%20Dec.%20&amp;#39;20]%20BFree:%20Enabling%20Battery-free%20Sensor%20Prototyping%20with%20Python" target="_blank" rel="noopener" class="share-btn-linkedin">
+        <a href="https://www.linkedin.com/shareArticle?url=/publication/wario/&amp;title=[PLDI%20&amp;#39;22]%20WARio:%20Efficient%20Code%20Generation%20for%20Intermittent%20Computing%20via%20Compiler%20Support" target="_blank" rel="noopener" class="share-btn-linkedin">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -620,7 +638,7 @@
       
       
       <li>
-        <a href="https://web.whatsapp.com/send?text=[IMWUT%20Dec.%20&amp;#39;20]%20BFree:%20Enabling%20Battery-free%20Sensor%20Prototyping%20with%20Python%20/publication/bfree/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+        <a href="https://web.whatsapp.com/send?text=[PLDI%20&amp;#39;22]%20WARio:%20Efficient%20Code%20Generation%20for%20Intermittent%20Computing%20via%20Compiler%20Support%20/publication/wario/" target="_blank" rel="noopener" class="share-btn-whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -633,7 +651,7 @@
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=/publication/bfree/&amp;title=[IMWUT%20Dec.%20&amp;#39;20]%20BFree:%20Enabling%20Battery-free%20Sensor%20Prototyping%20with%20Python" target="_blank" rel="noopener" class="share-btn-weibo">
+        <a href="https://service.weibo.com/share/share.php?url=/publication/wario/&amp;title=[PLDI%20&amp;#39;22]%20WARio:%20Efficient%20Code%20Generation%20for%20Intermittent%20Computing%20via%20Compiler%20Support" target="_blank" rel="noopener" class="share-btn-weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
@@ -697,7 +715,7 @@
       
       <li><a href="/publication/tics/">[ASPLOS &#39;20] Time-sensitive Intermittent Computing Meets Legacy Software</a></li>
       
-      <li><a href="/publication/wario/">[PLDI &#39;22] WARio: Efficient Code Generation for Intermittent Computing via Compiler Support</a></li>
+      <li><a href="/publication/bfree/">[IMWUT Dec. &#39;20] BFree: Enabling Battery-free Sensor Prototyping with Python</a></li>
       
     </ul>
   </div>

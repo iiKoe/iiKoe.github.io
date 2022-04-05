@@ -5,12 +5,21 @@
     <link>/authors/przemys%C5%82aw-pawe%C5%82czak/</link>
       <atom:link href="/authors/przemys%C5%82aw-pawe%C5%82czak/index.xml" rel="self" type="application/rss+xml" />
     <description>Przemysław Pawełczak</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 20 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 20 Jun 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Przemysław Pawełczak</title>
       <link>/authors/przemys%C5%82aw-pawe%C5%82czak/</link>
     </image>
+    
+    <item>
+      <title>[PLDI &#39;22] WARio: Efficient Code Generation for Intermittent Computing via Compiler Support</title>
+      <link>/publication/wario/</link>
+      <pubDate>Mon, 20 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/wario/</guid>
+      <description>&lt;p&gt;GitHub Repository: &lt;a href=&#34;https://github.com/TUDSSL/WARio&#34;&gt;https://github.com/TUDSSL/WARio&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>[IMWUT Dec. &#39;20] BFree: Enabling Battery-free Sensor Prototyping with Python</title>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Souradip Ghosh | Vito Kortbeek</title>
+    <link>/authors/souradip-ghosh/</link>
+      <atom:link href="/authors/souradip-ghosh/index.xml" rel="self" type="application/rss+xml" />
+    <description>Souradip Ghosh</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 20 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Souradip Ghosh</title>
+      <link>/authors/souradip-ghosh/</link>
+    </image>
+    
+    <item>
+      <title>[PLDI &#39;22] WARio: Efficient Code Generation for Intermittent Computing via Compiler Support</title>
+      <link>/publication/wario/</link>
+      <pubDate>Mon, 20 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/wario/</guid>
+      <description>&lt;p&gt;GitHub Repository: &lt;a href=&#34;https://github.com/TUDSSL/WARio&#34;&gt;https://github.com/TUDSSL/WARio&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
