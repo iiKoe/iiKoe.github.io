@@ -5,7 +5,7 @@
     <link>/tags/intermittent-computing/</link>
       <atom:link href="/tags/intermittent-computing/index.xml" rel="self" type="application/rss+xml" />
     <description>Intermittent Computing</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 20 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 03 Apr 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Intermittent Computing</title>
@@ -13,11 +13,20 @@
     </image>
     
     <item>
+      <title>[ASPLOS &#39;25] Data Cache for Intermittent Computing Systems with Non-Volatile Main Memory</title>
+      <link>/publication/nacho/</link>
+      <pubDate>Thu, 03 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/nacho/</guid>
+      <description>&lt;p&gt;GitHub repository and artifact: &lt;a href=&#34;https://github.com/TUDSSL/intermittent-risc-v/tree/nacho-artifact-release&#34; target=&#34;_blank&#34;&gt;https://github.com/TUDSSL/intermittent-risc-v/tree/nacho-artifact-release&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>[PLDI &#39;22] WARio: Efficient Code Generation for Intermittent Computing</title>
       <link>/publication/wario/</link>
       <pubDate>Mon, 20 Jun 2022 00:00:00 +0000</pubDate>
       <guid>/publication/wario/</guid>
-      <description>&lt;p&gt;GitHub Repository: &lt;a href=&#34;https://github.com/TUDSSL/WARio&#34;&gt;https://github.com/TUDSSL/WARio&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;GitHub Repository: &lt;a href=&#34;https://github.com/TUDSSL/WARio&#34; target=&#34;_blank&#34;&gt;https://github.com/TUDSSL/WARio&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -26,7 +35,7 @@
       <link>/publication/bfree/</link>
       <pubDate>Sun, 20 Dec 2020 00:00:00 +0000</pubDate>
       <guid>/publication/bfree/</guid>
-      <description>&lt;p&gt;GitHub Repository: &lt;a href=&#34;https://github.com/TUDSSL/BFree&#34;&gt;https://github.com/TUDSSL/BFree&lt;/a&gt; (under construction)&lt;/p&gt;
+      <description>&lt;p&gt;GitHub Repository: &lt;a href=&#34;https://github.com/TUDSSL/BFree&#34; target=&#34;_blank&#34;&gt;https://github.com/TUDSSL/BFree&lt;/a&gt; (under construction)&lt;/p&gt;
 </description>
     </item>
     
@@ -35,7 +44,7 @@
       <link>/publication/gameboy/</link>
       <pubDate>Sun, 20 Sep 2020 00:00:00 +0000</pubDate>
       <guid>/publication/gameboy/</guid>
-      <description>&lt;p&gt;GitHub Repository: &lt;a href=&#34;https://github.com/TUDSSL/ENGAGE&#34;&gt;https://github.com/TUDSSL/ENGAGE&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;GitHub Repository: &lt;a href=&#34;https://github.com/TUDSSL/ENGAGE&#34; target=&#34;_blank&#34;&gt;https://github.com/TUDSSL/ENGAGE&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -44,7 +53,7 @@
       <link>/publication/tics/</link>
       <pubDate>Fri, 20 Mar 2020 00:00:00 +0000</pubDate>
       <guid>/publication/tics/</guid>
-      <description>&lt;p&gt;GitHub Repository: &lt;a href=&#34;https://github.com/TUDSSL/TICS&#34;&gt;https://github.com/TUDSSL/TICS&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;GitHub Repository: &lt;a href=&#34;https://github.com/TUDSSL/TICS&#34; target=&#34;_blank&#34;&gt;https://github.com/TUDSSL/TICS&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

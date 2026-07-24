@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sourav Mohapatra | Vito Kortbeek</title>
+    <link>/authors/sourav-mohapatra/</link>
+      <atom:link href="/authors/sourav-mohapatra/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sourav Mohapatra</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 03 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Sourav Mohapatra</title>
+      <link>/authors/sourav-mohapatra/</link>
+    </image>
+    
+    <item>
+      <title>[ASPLOS &#39;25] Data Cache for Intermittent Computing Systems with Non-Volatile Main Memory</title>
+      <link>/publication/nacho/</link>
+      <pubDate>Thu, 03 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/nacho/</guid>
+      <description>&lt;p&gt;GitHub repository and artifact: &lt;a href=&#34;https://github.com/TUDSSL/intermittent-risc-v/tree/nacho-artifact-release&#34; target=&#34;_blank&#34;&gt;https://github.com/TUDSSL/intermittent-risc-v/tree/nacho-artifact-release&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

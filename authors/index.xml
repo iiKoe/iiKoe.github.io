@@ -5,12 +5,137 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 20 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 03 Apr 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Authors</title>
       <link>/authors/</link>
     </image>
+    
+    <item>
+      <title>Jochem Broekhoff</title>
+      <link>/authors/jochem-broekhoff/</link>
+      <pubDate>Thu, 03 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>/authors/jochem-broekhoff/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marco Antonio van Eerden</title>
+      <link>/authors/marco-antonio-van-eerden/</link>
+      <pubDate>Thu, 03 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>/authors/marco-antonio-van-eerden/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Przemysław Pawełczak</title>
+      <link>/authors/przemys%C5%82aw-pawe%C5%82czak/</link>
+      <pubDate>Thu, 03 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>/authors/przemys%C5%82aw-pawe%C5%82czak/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Saad Ahmed</title>
+      <link>/authors/saad-ahmed/</link>
+      <pubDate>Thu, 03 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>/authors/saad-ahmed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sourav Mohapatra</title>
+      <link>/authors/sourav-mohapatra/</link>
+      <pubDate>Thu, 03 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>/authors/sourav-mohapatra/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vito Kortbeek</title>
+      <link>/authors/vito-kortbeek/</link>
+      <pubDate>Thu, 03 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>/authors/vito-kortbeek/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Josiah Hester</title>
+      <link>/authors/josiah-hester/</link>
+      <pubDate>Mon, 20 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>/authors/josiah-hester/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simone Campanoni</title>
+      <link>/authors/simone-campanoni/</link>
+      <pubDate>Mon, 20 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>/authors/simone-campanoni/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Souradip Ghosh</title>
+      <link>/authors/souradip-ghosh/</link>
+      <pubDate>Mon, 20 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>/authors/souradip-ghosh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Abu Bakar</title>
+      <link>/authors/abu-bakar/</link>
+      <pubDate>Sun, 20 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/abu-bakar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kasım Sinan Yıldırım</title>
+      <link>/authors/kas%C4%B1m-sinan-y%C4%B1ld%C4%B1r%C4%B1m/</link>
+      <pubDate>Sun, 20 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/kas%C4%B1m-sinan-y%C4%B1ld%C4%B1r%C4%B1m/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stefany Cruz</title>
+      <link>/authors/stefany-cruz/</link>
+      <pubDate>Sun, 20 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/stefany-cruz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jasper de Winkel</title>
+      <link>/authors/jasper-de-winkel/</link>
+      <pubDate>Sun, 20 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/jasper-de-winkel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jacob Sorber</title>
+      <link>/authors/jacob-sorber/</link>
+      <pubDate>Fri, 20 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/jacob-sorber/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/admin/</guid>
+      <description>&lt;p&gt;I am a compiler engineer at GlobalFoundries, working on &lt;a href=&#34;https://mips.com/processor-solutions/asip-designer/&#34; target=&#34;_blank&#34;&gt;ASIP Designer&amp;rsquo;s&lt;/a&gt; extensively customized LLVM/Clang-based C/C++ compiler. My work spans the Clang front end, LLVM middle end, and custom backend tooling, with most of my work focused on analyses, transformations, and optimization-pipeline support. I am particularly interested in alias and memory-dependence analysis, code-restructuring transformations, and optimizations that take advantage of processor architecture.&lt;/p&gt;
+
+&lt;p&gt;Before joining GlobalFoundries, I worked on the same ASIP compiler technology at Synopsys until the business transferred in June 2026. The compiler dynamically supports processor targets generated from architecture descriptions, including RISC-V-based processors and highly specialized DSP architectures.&lt;/p&gt;
+
+&lt;p&gt;I completed my PhD at &lt;a href=&#34;https://www.tudelft.nl/en/&#34; target=&#34;_blank&#34;&gt;Delft University of Technology&lt;/a&gt; in 2023. My research focused on programmer-friendly intermittent computing and combined compiler transformations, processor architecture, and embedded systems. This work resulted in publications at PLDI, ASPLOS, and UbiComp.&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>
